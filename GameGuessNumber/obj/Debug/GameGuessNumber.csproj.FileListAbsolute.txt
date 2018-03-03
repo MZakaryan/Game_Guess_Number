@@ -1,0 +1,14 @@
+C:\Users\misha\source\repos\GameGuessNumber\GameGuessNumber\bin\Debug\GameGuessNumber.exe.config
+C:\Users\misha\source\repos\GameGuessNumber\GameGuessNumber\bin\Debug\GameGuessNumber.exe
+C:\Users\misha\source\repos\GameGuessNumber\GameGuessNumber\bin\Debug\GameGuessNumber.pdb
+C:\Users\misha\source\repos\GameGuessNumber\GameGuessNumber\obj\Debug\GameGuessNumber.csprojResolveAssemblyReference.cache
+C:\Users\misha\source\repos\GameGuessNumber\GameGuessNumber\obj\Debug\GameGuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\GameGuessNumber\GameGuessNumber\obj\Debug\GameGuessNumber.exe
+C:\Users\misha\source\repos\GameGuessNumber\GameGuessNumber\obj\Debug\GameGuessNumber.pdb
+C:\Users\misha\Source\Repos\Game_Guess_Number\GameGuessNumber\bin\Debug\GameGuessNumber.exe.config
+C:\Users\misha\Source\Repos\Game_Guess_Number\GameGuessNumber\bin\Debug\GameGuessNumber.exe
+C:\Users\misha\Source\Repos\Game_Guess_Number\GameGuessNumber\bin\Debug\GameGuessNumber.pdb
+C:\Users\misha\Source\Repos\Game_Guess_Number\GameGuessNumber\obj\Debug\GameGuessNumber.csprojResolveAssemblyReference.cache
+C:\Users\misha\Source\Repos\Game_Guess_Number\GameGuessNumber\obj\Debug\GameGuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\misha\Source\Repos\Game_Guess_Number\GameGuessNumber\obj\Debug\GameGuessNumber.exe
+C:\Users\misha\Source\Repos\Game_Guess_Number\GameGuessNumber\obj\Debug\GameGuessNumber.pdb
